@@ -21,23 +21,15 @@ A modern desktop calculator built with **Python** and **Tkinter**, featuring a c
 * Automatically centered application window
 
 
-## Getting Started
+!image alt] (https://github.com/hamriwalid/calculatrice-Tkinter/blob/640e3f87752cd42c0290efe66de0f91e57994f3f/Capture%20d'%C3%A9cran%202026-07-15%20175308.png)
 
 ### Prerequisites
 
 * Python 3.8 or later
 
-### Clone the repository
 
-```bash
-git clone https://github.com/your-username/python-calculator.git
-```
 
-### Navigate to the project directory
 
-```bash
-cd python-calculator
-```
 
 ### Run the application
 
